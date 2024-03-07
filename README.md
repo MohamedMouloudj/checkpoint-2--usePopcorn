@@ -1,3 +1,24 @@
+## usePopcorn
+
+Search for movies, rate the watched ones and add them to your list of watched movies
+
+## How to run it
+
+```bash
+git clone [URL]
+cd [path of the project]
+npm i #To install the necessary modules
+npm start
+```
+
+## Technologies I used
+
+- HTML
+- CSS
+- React.js
+- Vite
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
